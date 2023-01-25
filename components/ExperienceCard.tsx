@@ -18,17 +18,17 @@ export default function ExperienceCard({}: Props){
             className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center" src="https://avatars.githubusercontent.com/u/79570234?v=4" alt="" />
             <div>
               <h4 className="text-4xl font-light">NINE COM</h4>
-              <p className="font-bold text-2xl mt-1">PAPAFAM</p>
+              <p className="font-bold text-2xl mt-1">프론트 팀원</p>
               <div className="flex space-x-2 my-2">
                 {/*Tech Used*/}
               </div>
               <p className="uppercase py-5 text-gray-300">2021 - Present</p>
               <ul className="list-disc space-y-4 ml-5 text-lg">
-                <li>Summary</li>
-                <li>Summary</li>
-                <li>Summary</li>
-                <li>Summary</li>
-                <li>Summary</li>
+                <li>자격증 정보 페이지 개발</li>
+                <li>Vue & Nuxt 2/3</li>
+                <li>REACT 18 & NEXT 13</li>
+                <li>Python</li>
+                <li>Kotlin</li>
               </ul>
             </div>
         </article>
