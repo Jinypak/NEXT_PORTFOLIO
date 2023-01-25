@@ -9,33 +9,37 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.11",
     "@next/font": "13.1.1",
+    "@portabletext/react": "^1.0.6",
+    "@ramonak/react-progress-bar": "^5.0.2",
+    "@sanity/image-url": "^1.0.1",
     "@types/node": "18.11.18",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.10",
-    "@heroicons/react": "^2.0.11",
-    "@portabletext/react": "^1.0.6",
-    "@ramonak/react-progress-bar": "^5.0.2",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
     "framer-motion": "^8.4.2",
     "next": "13.1.1",
+    "next-sanity": "^0.8.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.42.1",
     "react-simple-typewriter": "^5.0.1",
     "react-social-icons": "^5.15.0",
+    "tailwind-scrollbar": "^2.1.0",
     "typescript": "4.9.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4",
     "eslint": "^8.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.10",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "prettier": "^2.7.1"
+    "postcss": "^8.4.21",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.2.4"
   }
 }

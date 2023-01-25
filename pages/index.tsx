@@ -37,9 +37,9 @@ export default function Home() {
         <Projects/>
       </section>
         {/*  Contact*/}
-      <section id="contact" className="snap-end">
-        <Contact/>
-      </section>
+      {/*<section id="contact" className="snap-end">*/}
+      {/*  <Contact/>*/}
+      {/*</section>*/}
     </div>
   )
 }
